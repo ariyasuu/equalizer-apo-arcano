@@ -1,0 +1,9 @@
+Device: Microphone ARCANO AM-BLACK-1  {32d0121c-6767-4a23-af1c-826c9cbb9698}
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reajs.dll" ChunkData "c3N0aWxsd2VsbC9leHBhbmRlcgAtMzAuMzAwMDAwIDYuMDAwMDAwIDAuMDAwMDAwIDAuMDAwMDAwIDAuMDAwMDAwIDMuMDAwMDAwIDE1MC4wMDAwMDAgLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gAAAAAAA="
+Device: Microphone ARCANO AM-BLACK-1  {32d0121c-6767-4a23-af1c-826c9cbb9698}
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reagate-standalone.dll" SignIn 0 Thresh 0.0546634 Hold 0.25 Hipass 0.003 Pre-open 0 Attack 0.0594012 Release 0.1 Lowpass 0.9 AudIn 0 Dry 0 Wet 1 Noise 0 Hystrsis 0.994398 PreviewF 0 "RMS size" 0 Usemidi 0 MidiNote 0.543307 MidiChan 0 InvrtWet 0
+Device: Microphone ARCANO AM-BLACK-1  {32d0121c-6767-4a23-af1c-826c9cbb9698}
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reacomp-standalone.dll" SignIn 0 Thresh 0.0546634 Hipass 0.003 Pre-comp 0 Release 0.006 Ratio 0.0300919 AutoMkUp 1 Attack 0.00598239 resvd 0 Lowpass 0.9 AudIn 0 Dry 0 Wet 0.998678 PreviewF 0 "RMS size" 0.005041 Knee 0.293 AutoRel 1 ClsAttk 0 AntiAls 0
+Device: Microphone ARCANO AM-BLACK-1  {32d0121c-6767-4a23-af1c-826c9cbb9698}
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reaeq-standalone.dll" ChunkData "IQAAAAYAAAAEAAAAAQAAAAAAAAAAAE5AIX1alcz97z/sUbgehev/PwEIAAAAAQAAADDheGDcRWRAgRkbCSSz8j8AAAAAAAAAQAEIAAAAAQAAAB3nwKBQdY5AAAAAAAAA8D8AAAAAAAAAQAEDAAAAAQAAAAAAAAAAF9FAAAAAAAAA8D+yne+nxkvxPwEIAAAAAQAAAAAAAAAATL1AU66gexg33j9QjZduEoPAPwEIAAAAAQAAAMFCxfQQurNAwkcQcnwE8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA=="
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reacomp-standalone.dll" SignIn 0 Thresh 0.372298 Hipass 0 Pre-comp 0 Release 0.006 Ratio 1 AutoMkUp 0 Attack 0.00199513 resvd 0 Lowpass 1 AudIn 0 Dry 3.16228e-8 Wet 1 PreviewF 0 "RMS size" 0 Knee 0 AutoRel 1 ClsAttk 0 AntiAls 0
